@@ -16,9 +16,8 @@
 - ⚡ Fun fact: **ice-creams >>>>**
 
 
-## Languages:
-<br>
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+<!-- ## Languages: -->
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smriti596)](https://github.com/anuraghazra/github-readme-stats)
