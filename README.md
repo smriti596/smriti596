@@ -1,16 +1,13 @@
 ### Hi there 👋 I  am Smriti Patel.
+### Student || Coder || Developer
 
-<!--
-**smriti596/smriti596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year undergraduate student
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Android Development using Java.
-- 👯 I’m looking to collaborate on Android Development projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: psmriti71@gmail.com
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning **Android Development using Java.
+- 👯 I’m looking to collaborate on **Android Development projects.
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: **psmriti71@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ice-creams >>>>
--->
