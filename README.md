@@ -11,3 +11,5 @@
 - 📫 How to reach me: **psmriti71@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **ice-creams >>>>**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smriti596)](https://github.com/anuraghazra/github-readme-stats)
