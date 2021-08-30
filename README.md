@@ -1,6 +1,9 @@
 ### Hi there 👋 I  am Smriti Patel.
 ### Student || Coder 
 
+![](https://komarev.com/ghpvc/?username=smriti596)
+
+
 
 
 <!-- - 🔭 I’m currently working on ... -->
