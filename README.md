@@ -9,11 +9,12 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning **Android Development using Java**
 - 👯 I’m looking to collaborate on **Android Development projects**
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **C++**
+- 🤔 I’m looking for help with **IP Spoofing**
 - 📫 How to reach me: **psmriti71@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **ice-creams >>>>**
+- 
 
 
 <!-- ## Languages: -->
