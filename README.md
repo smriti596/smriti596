@@ -13,7 +13,8 @@
 - 🤔 I’m looking for help with **IP Spoofing**
 - 📫 How to reach me: **psmriti71@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **ice-creams >>>>**
+- ⚡ Fun fact 1: **Ice-Creams >>>>**
+- ⚡ Fun fact 2: **Art Supplies >>>>**
 - 
 
 
