@@ -15,7 +15,7 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact 1: **Ice-Creams >>>>**
 - ⚡ Fun fact 2: **Art Supplies >>>>**
-- 
+
 
 
 <!-- ## Languages: -->
