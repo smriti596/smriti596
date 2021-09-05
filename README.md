@@ -21,10 +21,14 @@
 <!-- ## Languages: -->
 
 ## How to connect:
+<br>
 Geeks for Geeks : https://github.com/smriti596
+<br>
 Leetcode : https://leetcode.com/code_vode/
 
-
+<br>
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smriti596)](https://github.com/anuraghazra/github-readme-stats)
 
