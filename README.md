@@ -21,8 +21,7 @@
 <!-- ## Languages: -->
 
 ## How to connect:
-<br>
-Geeks for Geeks : https://github.com/smriti596
+Geeks for Geeks : https://auth.geeksforgeeks.org/user/psmriti71/profile
 <br>
 Leetcode : https://leetcode.com/code_vode/
 
