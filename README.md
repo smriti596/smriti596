@@ -20,6 +20,10 @@
 
 <!-- ## Languages: -->
 
+## How to connect:
+Geeks for Geeks : https://github.com/smriti596
+Leetcode : https://leetcode.com/code_vode/
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smriti596)](https://github.com/anuraghazra/github-readme-stats)
