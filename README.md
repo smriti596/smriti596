@@ -20,12 +20,12 @@
 
 <!-- ## Languages: -->
 
-## How to connect:
+<!-- ## How to connect:
 Linkedin : https://www.linkedin.com/in/smriti-patel-16a7451a0/
 <br>
 Geeks for Geeks : https://auth.geeksforgeeks.org/user/psmriti71/profile
 <br>
-Leetcode : https://leetcode.com/code_vode/
+Leetcode : https://leetcode.com/code_vode/ -->
 
 <br>
 <br>
